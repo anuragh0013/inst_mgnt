@@ -1,3 +1,4 @@
-class Test{}[D
-[A[C[C[C[C[C[C[C[C[C[C[C
-[A[C[C[C[C[C[C[C[C[C[C[C [B}
+class Test{
+int i=10;
+int j=20;
+}
